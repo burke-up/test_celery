@@ -1,1 +1,1 @@
-"# test_celery" 
+# test_celery
